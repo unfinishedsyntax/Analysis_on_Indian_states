@@ -3,4 +3,9 @@ In this project i am  going to analyse differnt -different sectors and states of
 Data sets are taken from NDAP and other government websites . 
 This project is only for analysis perpose. 
 Next step in the project will be to develop a machine learning model to analyze and establish a dependency between  2 or more sectors.
-#FINAL GOAL:-
+LIST OF DATASETS :
+1.CDR
+2.GVA
+ and more...
+ which will be updated soon
+
